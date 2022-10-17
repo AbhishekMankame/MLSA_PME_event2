@@ -1,1 +1,1 @@
-This is a simple python project using streamlit
+This is a simple python Machine Learning project using streamlit
